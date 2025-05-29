@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roll249
+- 👋 Hi, I’m Trần Thị Linh
 - 👀 Tôi quan tâm đến  how to be a code writter 
 - 🌱 Tôi hiện đang học High School
 - 💞️ I’m looking to collaborate on ...
